@@ -1,0 +1,1 @@
+window.hostApp = 'https://intensicordigital.cloud.cronapp.io/';

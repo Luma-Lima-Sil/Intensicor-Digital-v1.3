@@ -1,0 +1,49 @@
+[
+    {
+    "_class": "app.entity.User",
+    "id": "304BF43E-0E62-4F4A-8A63-3F22D7AD4611",
+    "name": "admin",
+    "login": "admin",
+    "password": "$2a$10$LjzpM1Q3VoAtG2dTCCabNuW0/amVPjL3Iyvyi2Dj7NP.HngtzSewu"
+  },
+  {
+    "_class": "app.entity.Role",
+    "id": "Administrators",
+    "user": { "id" : "304BF43E-0E62-4F4A-8A63-3F22D7AD4611" }
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "1",
+    "descricao": "Domingo"
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "2",
+    "descricao": "Segunda-feira"
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "3",
+    "descricao": "Terça-feira"
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "4",
+    "descricao": "Quarta-feira"
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "5",
+    "descricao": "Quinta-feira"
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "6",
+    "descricao": "Sexta-feira"
+  },
+  {
+    "_class": "app.entity.DiaSemana",
+    "id": "7",
+    "descricao": "Sábado"
+  }
+]

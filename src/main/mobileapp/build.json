@@ -1,0 +1,1 @@
+{"android":{"debug":{"storePassword":"405116217","alias":"PlantaoFacil","password":"405116217","keystore":"certs/PlantaoFacil.keystore","keystoreType":""},"release":{"keystore":"certs/plantaofacil082019.keystore","storePassword":"123456","alias":"plantaofacil","password":"123456","keystoreType":""}},"ios":{"debug":{},"release":{}}}
